@@ -10,3 +10,8 @@ var myVar = "Hello, world!";
 - [x] Add some code
 - [x] Make a List
 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
